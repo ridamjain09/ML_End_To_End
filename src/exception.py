@@ -5,6 +5,7 @@ we can search for exception Python on google
 
 import sys  #Use to manipulate diffrent parts of Python runtime enviorment 
 import logging
+from src.logger import logging
 
 
 def error_message_detail(error,error_detail:sys):

@@ -1,4 +1,6 @@
 pandas 
 numpy 
 seaborn
--e . #triggers src file to run 
+matplotlib
+scikit-learn
+#-e . #triggers src file to run 
