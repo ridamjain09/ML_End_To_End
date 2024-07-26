@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "d:/ML_END_TO_END/ml_end_to_end\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": false
+ }
+}
